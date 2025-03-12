@@ -12,21 +12,20 @@
 
 #### Languages
 
-| Language | Knowledge  |
-|----------|------------|
-| C        | Basic      |
-| Go       | Middle     |
-| Python   | Basic      |
-| Shell    | Middle     |
-| SQL      | Learning   |
+| Language | Knowledge    |
+|----------|--------------|
+| C        | Basic        |
+| Go       | Intermediate |
+| Python   | Basic        |
+| Shell    | Intermediate |
+| SQL      | Learning     |
 
 
 #### DevOps Tools and Tech
 
-| Tool/Tech | Knowledge |
-|-----------|-----------|
-| Docker    | Still Learning|
-| PostgreSQL | Admin |
-| Git | Middle |
-| Linux | Experienced |
-| Github CI/CD | Learning |
+| Tool/Tech | Knowledge      |
+|-----------|----------------|
+| Docker    | Learning       |
+| Git       | Intermediate   |
+| Linux     | Advanced       |
+| Github Actions | Learning  |
