@@ -1,5 +1,3 @@
-# Kurth4cker
-
 ## Skills
 
 ### Summary
