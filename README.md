@@ -1,4 +1,6 @@
-# Kurth4cker | System Programmer, Linux SysAdmin
+# Kurth4cker
+
+### System Programmer, Linux SysAdmin
 
 ## Skills
 
