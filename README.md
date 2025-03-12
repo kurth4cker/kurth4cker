@@ -1,13 +1,10 @@
 ## Skills
 
-### Summary
+### Languages  
+- **Beginner:** Python  
+- **Intermediate:** C, Go  
+- **Advanced:** Shell  
 
-* **Languages:** 
-  - ![C](https://img.shields.io/badge/C-Intermediate-blue)
-  - ![Go](https://img.shields.io/badge/Go-Intermediate-blue)
-  - ![Python](https://img.shields.io/badge/Python-Intermediate-blue)
-  - ![Shell](https://img.shields.io/badge/Shell-Beginner-8BC34A)
+### Stats
 
-* **DevOps:** Docker, PostgreSQL, Git, Linux SysAdmin
-* **Currently Learning:** GitHub Actions, SQL
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kurth4cker&show_icons=true&count_private=true&hide=prs&theme=radical)
