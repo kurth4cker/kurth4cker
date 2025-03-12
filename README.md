@@ -1,10 +1,9 @@
 ## Skills
 
-### Languages  
-- **Beginner:** Python  
-- **Intermediate:** C, Go  
-- **Advanced:** Shell  
+### Languages
+- **Intermediate:** C, Go, Python
+- **Beginner:** Shell
 
 ### Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kurth4cker&show_icons=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kurth4cker&show_icons=true&theme=dark)
